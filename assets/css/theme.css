@@ -18715,6 +18715,9 @@ ul {
   width: 9px;
   height: 9px;
 }
+.hero-image-2 {
+  transform: translateY(185px);
+}
 
 .carousel-icon {
   width: auto;
